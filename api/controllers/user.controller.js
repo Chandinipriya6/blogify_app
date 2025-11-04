@@ -133,3 +133,32 @@ export const getUser = async (req, res, next) => {
      next(error);
    }
 }
+
+export const makeAdmin = async (req, res, next) => {
+  try {
+    const currentUser = req.user;
+
+    // Only admin can promote another user
+    if (!currentUser.isAdmin) {
+      return next(errorHandler(403, 'Only admins can promote users'));
+    }
+
+    const targetUser = await User.findById(req.params.userId);
+    if (!targetUser) {
+      return next(errorHandler(404, 'User not found'));
+    }
+
+    // Already admin?
+    if (targetUser.isAdmin) {
+      return next(errorHandler(400, 'User is already an admin'));
+    }
+
+    // Promote to admin
+    targetUser.isAdmin = true;
+    await targetUser.save();
+
+    res.status(200).json({ message: `${targetUser.username} is now an admin` });
+  } catch (error) {
+    next(error);
+  }
+};
