@@ -57,7 +57,7 @@ Blogify/
 ---
 
 ## 🧑‍💻 **Developed By**
-**Pasagada Chandini**
+**Pasagada Chandini priya**
 
 ---
 
@@ -67,7 +67,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/blogify.git
+git clone https://github.com/Chandinipriya6/blogify_app
 cd blogify
 ```
 
@@ -115,28 +115,24 @@ Your app will be running at:
 ## 🖼️ **Screenshots**
 
 ### 🏠 Home Page
-![Home Page](https://files.chat.openai.com/file-00000000ffb871fa89e60370a302a9dc)
+![WhatsApp Image 2025-11-04 at 16 54 04_51c73e2c](https://github.com/user-attachments/assets/7820b1a7-6135-4c9c-a3e6-3b78bb4535a9)
 
 ### 📝 Create Blog
-![Create Blog](https://files.chat.openai.com/file-00000000fde471fa89f5d9c767304340)
-
-### 📄 Blog View
-![Blog View](https://files.chat.openai.com/file-0000000011d472078e6d6ae2898de48a)
+<img width="1856" height="834" alt="image" src="https://github.com/user-attachments/assets/f14a3ba7-424a-428a-aaab-b860c2f123be" />
 
 ### 🔑 Login Page
-![Login](https://files.chat.openai.com/file-000000007060720787b619a86bca82d8)
-
-### 👤 User Dashboard
-![Dashboard](https://files.chat.openai.com/file-00000000774071fa8fdb0b17d9ea81ac)
+![WhatsApp Image 2025-11-04 at 16 56 28_2c00a5f8](https://github.com/user-attachments/assets/b034235a-5ec5-419d-b3fc-4435af4b2938)
 
 ### 📚 All Blogs
-![All Blogs](https://files.chat.openai.com/file-00000000fde871faa0ba34956372e6a2)
+![WhatsApp Image 2025-11-04 at 16 56 44_d2548c20](https://github.com/user-attachments/assets/3ff70fc9-cd6a-41b0-83bf-2e88fcb082c7)
 
-### 📱 Responsive Design
-![Responsive Design](https://files.chat.openai.com/file-000000003b0c71fab9ff2dc144965c35)
+![WhatsApp Image 2025-11-04 at 16 57 18_82134d42](https://github.com/user-attachments/assets/78657a70-0d4d-4fcf-8d64-7ad3824a8959)
 
-### ⚙️ Backend API Running
-![Backend API](https://files.chat.openai.com/file-00000000e8fc71faa831e77c066c6054)
+![WhatsApp Image 2025-11-04 at 16 57 34_fbc5ba3c](https://github.com/user-attachments/assets/bb1be2fc-37d9-4a52-a510-8ed99536eb62)
+
+![WhatsApp Image 2025-11-04 at 16 57 57_56cd33bc](https://github.com/user-attachments/assets/b41d5c14-1808-46e8-8dfc-acf3a215e6fe)
+
+![WhatsApp Image 2025-11-04 at 16 58 11_862d4dfa](https://github.com/user-attachments/assets/96da30b6-0bdd-4716-9205-b8918030ca2b)
 
 ---
 
