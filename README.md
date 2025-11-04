@@ -75,7 +75,6 @@ Displays the full content of an individual blog post — including the title, im
 ```bash
 git clone https://github.com/Chandinipriya6/blogify_app.git
 
----
 
 2. Install Dependencies
 cd blogify_app
